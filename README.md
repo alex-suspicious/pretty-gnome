@@ -1,4 +1,4 @@
-# Pretty Gnome
+# 🥺 Pretty Gnome
 This is a small script that will copy the original Yaru theme, and add some changes to it with custom css to make transparent windows.<br>
 On top of that it will rewrite the ~/.config/gtk-4.0 and 3.0 gtk.css files to the corresponding theme you selected ( Black or White )<br>
 The video on [YouTube](https://youtu.be/P2ySmzwxCnQ)
@@ -17,6 +17,9 @@ To install it, just git clone the repo, chmod +x the isntallation script and rel
 Or just copy & paste this to your terminal and execute.
 ######
     wget -O pretty-gnome.sh "https://github.com/alex-suspicious/pretty-gnome/blob/main/install.sh?raw=true"\; chmod+x pretty-gnome.sh; bash pretty-gnome.sh; rm pretty-gnome.sh
+
+# 😊 Commits
+Feel free to commit the changes, im not a pro in all that stuff, so will be glad if the community will help me with it.
 
 # ❤️ Overview ❤️
 ![image](https://github.com/user-attachments/assets/d93c3d5a-395c-4aa0-a843-079374f98232)
