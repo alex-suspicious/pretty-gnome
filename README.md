@@ -30,6 +30,7 @@ Feel free to commit the changes, im not a pro in all that stuff, so will be glad
 ![image](https://github.com/user-attachments/assets/72c9c1b2-b930-40be-88bc-a486c17b5cef)
 ![image](https://github.com/user-attachments/assets/3b9e41a3-02b5-4510-83d0-f42387907ac4)
 ![image](https://github.com/user-attachments/assets/8b4c051a-3082-42bc-9566-12e6a5805bc9)
+![image](https://github.com/user-attachments/assets/68bbc4e9-4104-46f2-a90f-d72be43dc554)
 
 
 # 🤗 I recomend you to use BlackBox terminal ( it uses GTK-4.0 )
