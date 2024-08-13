@@ -32,4 +32,4 @@ This theme makes the blackbox transparent as well.<br>
 ![image](https://github.com/user-attachments/assets/953f9641-59bb-4c0b-8328-370636451286)
 
 # P.S
-Also i will be happy if you check out my [website](http://mentalgames.org/) or the [Discord Server](https://discord.gg/w9XsgY8ZpS) ❤️
+Also i will be happy if you check out my [website](http://mentalgames.org/) or the [Discord Server](https://discord.gg/w9XsgY8ZpS) or [fst.kz](https://fst.kz/) ❤️
