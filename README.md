@@ -1,4 +1,4 @@
-# 🥺 Pretty Gnome
+# 💅🏻 Pretty Gnome
 This is a small script that will copy the original Yaru theme, and add some changes to it with custom css to make transparent windows.<br>
 On top of that it will rewrite the ~/.config/gtk-4.0 and 3.0 gtk.css files to the corresponding theme you selected ( Black or White )<br>
 The video on [YouTube](https://youtu.be/P2ySmzwxCnQ)
@@ -32,4 +32,5 @@ This theme makes the blackbox transparent as well.<br>
 ![image](https://github.com/user-attachments/assets/953f9641-59bb-4c0b-8328-370636451286)
 
 # P.S
-Also i will be happy if you check out my [website](http://mentalgames.org/) or the [Discord Server](https://discord.gg/w9XsgY8ZpS) or [fst.kz](https://fst.kz/) ❤️
+Also i will be happy if you check out my [website](http://mentalgames.org/) or the [Discord Server](https://discord.gg/w9XsgY8ZpS) ❤️<br>
+Or my boss website [fst.kz](https://fst.kz/) ❤️
