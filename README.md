@@ -28,7 +28,7 @@ Feel free to commit the changes, im not a pro in all that stuff, so will be glad
 
 
 # 🤗 I recomend you to use BlackBox terminal ( it uses GTK-4.0 )
-This theme makes the blackbox transparent as well.
+This theme makes the blackbox transparent as well.<br>
 ![image](https://github.com/user-attachments/assets/953f9641-59bb-4c0b-8328-370636451286)
 
 # P.S
