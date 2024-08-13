@@ -26,6 +26,10 @@ Feel free to commit the changes, im not a pro in all that stuff, so will be glad
 ![image](https://github.com/user-attachments/assets/d93c3d5a-395c-4aa0-a843-079374f98232)
 ![image](https://github.com/user-attachments/assets/e5eae3bf-3479-4d82-943f-7944a0569b87)
 ![image](https://github.com/user-attachments/assets/4c6dca3f-75bb-4321-bd41-76fef17ad221)
+![image](https://github.com/user-attachments/assets/fbbe4915-f899-4aea-9e2e-77cafd5dacb5)
+![image](https://github.com/user-attachments/assets/72c9c1b2-b930-40be-88bc-a486c17b5cef)
+![image](https://github.com/user-attachments/assets/3b9e41a3-02b5-4510-83d0-f42387907ac4)
+![image](https://github.com/user-attachments/assets/8b4c051a-3082-42bc-9566-12e6a5805bc9)
 
 
 # 🤗 I recomend you to use BlackBox terminal ( it uses GTK-4.0 )
