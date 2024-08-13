@@ -14,7 +14,7 @@ Sometimes the window managment buttons may look bad, i see this behaviour only f
 ![image](https://github.com/user-attachments/assets/f5922a84-6cea-438d-9374-f7a3eac61e6b)
 
 # 🧑‍💻 Installation
-To install it, just git clone the repo, chmod +x the isntallation script and relogin.<br>
+To install it, just git clone the repo, chmod +x the installation script, run it and relogin.<br>
 Or just copy & paste this to your terminal and execute.
 ######
     wget -O pretty-gnome.sh "https://github.com/alex-suspicious/pretty-gnome/blob/main/install.sh?raw=true"\; chmod+x pretty-gnome.sh; bash pretty-gnome.sh; rm pretty-gnome.sh
