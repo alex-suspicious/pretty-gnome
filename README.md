@@ -19,6 +19,13 @@ Or just copy & paste this to your terminal and execute.
 ######
     wget -O pretty-gnome.sh "https://github.com/alex-suspicious/pretty-gnome/blob/main/install.sh?raw=true"\; chmod+x pretty-gnome.sh; bash pretty-gnome.sh; rm pretty-gnome.sh
 
+# 🗑️ Uninstallation 
+To uninstall it, just git clone the repo, chmod +x the reset.sh file, run it and relogin.<br>
+Or just copy & paste this to your terminal and execute.
+######
+    wget -O default-gnome.sh "https://github.com/alex-suspicious/pretty-gnome/blob/main/reset.sh?raw=true"\; chmod+x default-gnome.sh; bash default-gnome.sh; rm default-gnome.sh
+
+
 # 😊 Commits
 Feel free to commit the changes, im not a pro in all that stuff, so will be glad if the community will help me with it.
 
