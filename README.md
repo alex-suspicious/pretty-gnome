@@ -9,6 +9,7 @@ This theme was made with the [Blur My Shell](https://extensions.gnome.org/extens
 ![image](https://github.com/user-attachments/assets/c37b54a9-266d-4818-a825-eb9628a80389)
 
 # 🚨 Warning
+You need the original Yaru theme in the system ( Ubuntu works out of box )<br>
 Sometimes the window managment buttons may look bad, i see this behaviour only for Chrome, but it's worth to mention.<br><br>
 ![image](https://github.com/user-attachments/assets/f5922a84-6cea-438d-9374-f7a3eac61e6b)
 
