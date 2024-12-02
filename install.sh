@@ -28,7 +28,7 @@ window.csd {
 	background-color: rgba(255,255,255,0.8);
 	border-radius: 20px;
 	border: solid 0.8px rgba(255,255,255,0.3);
-	box-shadow: 0px 35px 60px rgba(0,0,0,0.3), 0px 10px 20px rgba(0,0,0,0.4), 0px -14px 25px rgba(255,255,255,0.2);
+	box-shadow: 0px 35px 60px rgba(0,0,0,0.3), 0px 10px 20px rgba(0,0,0,0.4);
 }
 
 dialog{
@@ -47,7 +47,7 @@ window{
 
 decoration{
 	border-radius: 20px;
-	box-shadow: 0px 35px 60px rgba(0,0,0,0.3), 0px 10px 20px rgba(0,0,0,0.4), 0px -14px 25px rgba(255,255,255,0.2);
+	box-shadow: 0px 35px 60px rgba(0,0,0,0.3), 0px 10px 20px rgba(0,0,0,0.4);
 }
 
 decoration-overlay{
@@ -188,7 +188,7 @@ window.csd {
 	background-color: rgba(42,42,42,0.6);
 	border-radius: 20px;
 	border: solid 0.8px rgba(255,255,255,0.3);
-	box-shadow: 0px 35px 60px rgba(0,0,0,0.4), 0px 10px 20px rgba(0,0,0,0.5), 0px -14px 25px rgba(255,255,255,0.05);
+	box-shadow: 0px 35px 60px rgba(0,0,0,0.4), 0px 10px 20px rgba(0,0,0,0.5);
 }
 
 dialog{
@@ -207,7 +207,7 @@ window{
 
 decoration{
 	border-radius: 20px;
-	box-shadow: 0px 35px 60px rgba(0,0,0,0.4), 0px 10px 20px rgba(0,0,0,0.5), 0px -14px 25px rgba(255,255,255,0.05);
+	box-shadow: 0px 35px 60px rgba(0,0,0,0.4), 0px 10px 20px rgba(0,0,0,0.5);
 }
 
 decoration-overlay{
